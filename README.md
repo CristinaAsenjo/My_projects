@@ -1,5 +1,5 @@
 # My_projects
-Some of the projects I have carried out in the field of Artificial Intelligence are the followings:
+Here you can finde some of the projects I have carried out in the field of Artificial Intelligence are the followings:
 
 - "Classification between beans and chickpeas": a project consisting of using images of chickpeas and beans to process the images by means of segmentation and thresholding in order to detect objects of interest. Once detected, the main characteristics are extracted and, by means of algorithms such as KNN or Bayes, a classifier is created to differentiate between chickpeas and beans. Finally, by using patterns, the positions of each of the objects of interest are extracted in order to communicate them to a robotic cell.
 
